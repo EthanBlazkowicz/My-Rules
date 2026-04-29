@@ -4,4 +4,3 @@ rules:
   - DOMAIN-SUFFIX,podcasts.apple.com,Proxies
   - DOMAIN-SUFFIX,mzstatic.com,Proxies
   - DOMAIN-SUFFIX,outlook.live.com,Proxies
-  - DOMAIN-SUFFIX,amp-api.podcasts.apple.com,Proxies
